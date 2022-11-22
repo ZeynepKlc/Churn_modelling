@@ -1,4 +1,8 @@
 # CHURN MODELLING
+
+Veri setini [kaggle](https://www.kaggle.com/datasets/shubh0799/churn-modelling) sitesinden yükleyebilirsiniz.
+
+
 ## _Veri Seti Hikayesi_
 
 
@@ -27,7 +31,7 @@ Veri setinde banka müşterilerinin bazı banka hesap bilgileri ve demografik ö
 > Tüm kütüphaneleri import ediyoruz. 
 > Veri setini yüklüyoruz.
 
-Veri setini [kaggle](https://www.kaggle.com/datasets/shubh0799/churn-modelling) sitesinden yükleyebilirsiniz.
+
 
 ```sh
 import pandas as pd 
