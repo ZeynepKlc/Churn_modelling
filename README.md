@@ -65,7 +65,7 @@ Veri görselleştirme, verileri daha iyi anlayabilmek, aralarındaki ilişkileri
 
 # Rapor
 
-Müşterilerin bankayı terk edip etmemelerini tahmin etmek için oluşturulan ve grafiklerle veriyi anlamaya çalışıp bir takım nesnel yorumlar getirdikten sonra veri önişleme ile veriler düzenlenip modele uygun hale getirildi.İlk aşamada birçok modelin accuracy ve cross-validation skorlarına bakıp en yüksek sonucu veren Random-Forest,Gradient Boosting ve Lightgbm modellerine daha detaylı bakılarak model için son aşamada Lightgbm modeli seçilmiştir.
+Müşterilerin bankayı terk edip etmemelerini tahmin etmek için oluşturulan ve grafiklerle veriyi anlamaya çalışıp bir takım nesnel yorumlar getirdikten sonra veri önişleme ile veriler düzenlenip modele uygun hale getirildi. Random-Forest,Gradient Boosting ve Lightgbm modelleri kullanıldı ve model için son aşamada LightGBM modeli seçilmiştir.
 
 - **LightGBM modelinde;**
   
