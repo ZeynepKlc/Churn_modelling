@@ -3,10 +3,12 @@
 Veri setini [kaggle](https://www.kaggle.com/datasets/shubh0799/churn-modelling) sitesinden yükleyebilirsiniz.
 
 
-## _Veri Seti Hikayesi_
 
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
+## _Veri Seti Hikayesi_
 
 Veri setinde banka müşterilerinin bazı banka hesap bilgileri ve demografik özellikleri (yaş,cinsiyet,tahmini maaş vb.) ayrıntılı bilgileri mevcuttur.Müşteri kayıp analizi yaparak,  müşterilerin bankayı terk edip etmeme ihtimallerini önceden tahmin etmek istiyoruz.
 
