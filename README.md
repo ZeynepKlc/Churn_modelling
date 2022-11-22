@@ -42,7 +42,7 @@ df=pd.read_csv("Churn_Modelling.csv").copy()
 ##  Keşifçi Veri Analizi
 
 - Veri setimizi test ve train seti olarak ikiye ayırıp train setiyle modele koyup en başarılı makine öğrenmesi modeliyle test setimizdeki başarı performansını değerlendireceğiz.
-- 
+
 - Müşterinin churn olma durumuna etkisi olmayan, gereksiz verileri veri setinden siliyoruz.
 
 
