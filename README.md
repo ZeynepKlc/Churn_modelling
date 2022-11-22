@@ -102,5 +102,5 @@ Müşterilerin bankayı terk edip etmemelerini tahmin etmek için oluşturulan v
   
   *Test veri seti içinde tahmin edilen (1) --> 487*
   
-Değerlere baktığımızda sonuçlar iyi görünüyor. Ancak sadece bu değerlere bakarak kesin bir yorum yapılamaz.Çünkü bankada churn olan müşterilerin sayısı churn olmayanlara göre daha az ve az olan bu verinin doğru tahminler yapması bizim için daha değerli olduğu için modelin doğruluğunu ne kadar çok metrikle ölçersek daha doğru sonuçlar elde ederiz.Model başarısını ölçmek için özellikle **recall** ve **f1 skorlarının** yüksek çıkması istenen sonuçlardır. Çünkü hedefimiz gerçekten churn olan müşterileri doğru tahmin edip yeni müşteriler üzerinde de bu başarıyı sağlayarak gerekli önlemleri almaktır.Modelimiz recall skorunu  bankayı terk etmeyenleri % 87 bankayı terk edenleri %68 başarı ile doğru tahmin etmiştir.Veri setimizde bankayı terk eden müşteri sayısı yetersiz olduğu için başarı oranı %68'de kalmıştır. Ancak model performansını yükseltmek için veri önişleme aşamasına gidip veri üzerinde bir takım ekleme-çıkarmalar yaparak ya da makine öğrenmesi modellerini farklı parametrelerle tekrar modeli kurma gibi adımlarla recall skorunu yükseltmeye çalışabiliriz.
+
 
